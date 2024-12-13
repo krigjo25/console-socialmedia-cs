@@ -1,6 +1,6 @@
 namespace SocialmediaApp.lib;
 
-public class User : DataCollection
+public class User
 {
     // Initializing class members
     private string _name;
