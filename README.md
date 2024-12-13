@@ -1,7 +1,7 @@
 # Friends Simulator
 This projects simulates an application where you can add / remove a friend from your friend list.
 
-The project was created as a part of an assignment for [Get Academy](https://getacademy.no)<br>
+The project was created as an assignment for [Get Academy](https://getacademy.no)<br>
 Please respect and keep the [Academic Honesty Integerty](https://ctl.columbia.edu/resources-and-technology/resources/academic-integrity/) in mind.<br>
 
 
