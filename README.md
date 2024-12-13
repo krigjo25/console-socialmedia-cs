@@ -17,11 +17,12 @@ git clone https://github.com/krigjo25/console-socialmedia-cs.git
 2. Open up raider / Microsoft Studio Community.
 3. Run the program
 
-## Useage
+## Usage
 In order to use the application just run the program through MS Studio Community or Raider
 
-## Licence
-This application is under [The No licensed](./LICENCE) for more information.
+## LICENCE
+This application is under [The Unlicense](./LICENCE) for more information.
+
 
 ## Notes from the developer
 Created with love for programming, thanks for reading.
